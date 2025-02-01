@@ -1,0 +1,3 @@
+/home/h/桌面/CMLMLibhh/CMakeFiles/CMLMLibhh.dir
+/home/h/桌面/CMLMLibhh/CMakeFiles/edit_cache.dir
+/home/h/桌面/CMLMLibhh/CMakeFiles/rebuild_cache.dir
